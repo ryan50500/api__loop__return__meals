@@ -1,1 +1,1 @@
-project to be found at https://ryan50500.github.io/JSON_api/
+project to be found at https://ryan50500.github.io/template__literal__loop__through__JSON/
